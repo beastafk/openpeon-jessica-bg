@@ -1,0 +1,148 @@
+{
+  "cesp_version": "1.0",
+  "name": "jessica-bg",
+  "display_name": "Jessica BG",
+  "version": "1.0.0",
+  "description": "A bright, playful voice cheering you on in Bulgarian.",
+  "language": "bg",
+  "license": "CC-BY-NC-4.0",
+  "author": {
+    "name": "beastafk",
+    "github": "beastafk"
+  },
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_0.wav",
+          "label": "Cheerful greeting, ready to start",
+          "sha256": "7b79d43c5e63cb659a28b8c8b2eca99955fb071295fb82b31decb60356bc101b"
+        },
+        {
+          "file": "sounds/session_start_1.wav",
+          "label": "Upbeat call to get started",
+          "sha256": "788485180f82c5b38aa7fe6289719f56caa0136891aecf8649058345afac26ef"
+        },
+        {
+          "file": "sounds/session_start_2.wav",
+          "label": "Present and ready to move",
+          "sha256": "7882f04eaa9dd8b6e02cd1418f34bd5e9f832f1fe5004bfc499e67e161cdcf04"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_0.wav",
+          "label": "Bright acknowledgement, jumping straight in",
+          "sha256": "9051826bd56e8d7266ca934842b2467a8f1473235400fc538aacb45c46938a08"
+        },
+        {
+          "file": "sounds/task_acknowledge_1.wav",
+          "label": "Crisp got-it, taking it on",
+          "sha256": "02293b4a3dff6b40cc140ccc44bbeaece5af649ad0ef22adc4f0f3428c2c1cc0"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.wav",
+          "label": "Quick okay, already moving",
+          "sha256": "068dcce64fe0b225efc86a1701a7f17110c64045dd4168a74fcdfdf607db7e88"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_0.wav",
+          "label": "Delighted announcement that it is finished",
+          "sha256": "9d0c0a79e885fe9815d82aec9f36f392594d373c4a8788dc1d7a6ce24f8a9bc0"
+        },
+        {
+          "file": "sounds/task_complete_1.wav",
+          "label": "Pleased that it turned out well",
+          "sha256": "96d1dfd15d50f695dac266806c0929490c33e28d1beac9c003c430efe3dc7cd0"
+        },
+        {
+          "file": "sounds/task_complete_2.wav",
+          "label": "Brisk there-it-is finish",
+          "sha256": "a495f18b058134099d7d5d7fc99676e274584b45e607ec1cdd997919ef3356da"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_0.wav",
+          "label": "Playful oops when something breaks",
+          "sha256": "b8dd2ee92ebf8a5cbb52962e0331219055eaab95f0b7e5b3c78ab1750332dade"
+        },
+        {
+          "file": "sounds/task_error_1.wav",
+          "label": "Soft dismay at an error",
+          "sha256": "6b2bff4cacfbff7e69f82adc7a44f7217e036c2bb726a3cec712878cb02935e0"
+        },
+        {
+          "file": "sounds/task_error_2.wav",
+          "label": "Light oops, something broke",
+          "sha256": "a7b2fa00781936aa0b7625d10791259341bf10e7f0ff3d745671d557573b824c"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_0.wav",
+          "label": "Eager nudge for your decision",
+          "sha256": "82573abbfc271f8e5e12183b9c6421b3818441a2ed2d3e2a6822033c2ee3c6ad"
+        },
+        {
+          "file": "sounds/input_required_1.wav",
+          "label": "Quick call for your attention",
+          "sha256": "e5c333832180abb3acad421d2dfe0eb049636282c11ebac8b16a15203328bb7b"
+        },
+        {
+          "file": "sounds/input_required_2.wav",
+          "label": "Handing the decision over",
+          "sha256": "af51a7cd569220f26e0a4a9dd35493c96bab592501fb7aed2cde919e5b86cc8f"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_0.wav",
+          "label": "Sunny warning that the limit is reached",
+          "sha256": "dab57ceb440be096b6ab6bb0727bcae8798a346baa5f1956409ec7c10133c6d2"
+        },
+        {
+          "file": "sounds/resource_limit_1.wav",
+          "label": "Short note that the limit is spent",
+          "sha256": "534869c559c820899041f31c7a9de28bace0ddc557374090b5f4c8d2919dc86e"
+        },
+        {
+          "file": "sounds/resource_limit_2.wav",
+          "label": "Resigned end-of-limit remark",
+          "sha256": "e710ae6fdbb027d8214b65d6e8f625cb4b468709a9fb8bb22106ea5766e87dd6"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_0.wav",
+          "label": "Good-natured reassurance for an impatient user",
+          "sha256": "67dd99e8091dd0a96e921e2fae441cbbce9ef38e89bc892780cfe77555d27e30"
+        },
+        {
+          "file": "sounds/user_spam_1.wav",
+          "label": "Busy reassurance, still working",
+          "sha256": "947633c373ad02792c5e90b60ebc286c874887fa9823580c5877f990b8670961"
+        },
+        {
+          "file": "sounds/user_spam_2.wav",
+          "label": "Patient almost-there promise",
+          "sha256": "6cf6a0bada0a9e69d18ff201166fc37dedd4bac2cdcd795f9af9e34bdaff991b"
+        }
+      ]
+    }
+  }
+}

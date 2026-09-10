@@ -1,0 +1,107 @@
+{
+  "sounds/session_start_0.wav": {
+    "type": "tts",
+    "text": "Здравей! Готова съм!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_acknowledge_0.wav": {
+    "type": "tts",
+    "text": "Разбрано! Започвам веднага.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_complete_0.wav": {
+    "type": "tts",
+    "text": "Готово! Успяхме!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_error_0.wav": {
+    "type": "tts",
+    "text": "Опа! Нещо не се получи.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/input_required_0.wav": {
+    "type": "tts",
+    "text": "Чакам те! Кажи ми какво избираш.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/resource_limit_0.wav": {
+    "type": "tts",
+    "text": "Стигнах лимита! Не мога повече.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/user_spam_0.wav": {
+    "type": "tts",
+    "text": "Спокойно, работя по въпроса!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/session_start_1.wav": {
+    "type": "tts",
+    "text": "Здрасти! Да започваме!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/session_start_2.wav": {
+    "type": "tts",
+    "text": "Тук съм! Да действаме.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_acknowledge_1.wav": {
+    "type": "tts",
+    "text": "Ясно! Заемам се.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_acknowledge_2.wav": {
+    "type": "tts",
+    "text": "Окей, действам!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_complete_1.wav": {
+    "type": "tts",
+    "text": "Готово! Излезе чудесно.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_complete_2.wav": {
+    "type": "tts",
+    "text": "Ето, свърших!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_error_1.wav": {
+    "type": "tts",
+    "text": "Ох! Появи се грешка.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/task_error_2.wav": {
+    "type": "tts",
+    "text": "Опа, счупи се нещо.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/input_required_1.wav": {
+    "type": "tts",
+    "text": "Нужен си ми за момент!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/input_required_2.wav": {
+    "type": "tts",
+    "text": "Ти решаваш! Кажи.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/resource_limit_1.wav": {
+    "type": "tts",
+    "text": "Свърших лимита!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/resource_limit_2.wav": {
+    "type": "tts",
+    "text": "Дотук бях, лимитът свърши.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/user_spam_1.wav": {
+    "type": "tts",
+    "text": "Работя, работя!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "sounds/user_spam_2.wav": {
+    "type": "tts",
+    "text": "Търпение, почти съм готова!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9"
+  }
+}
